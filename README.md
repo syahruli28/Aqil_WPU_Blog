@@ -1,8 +1,15 @@
 **View Aqil WPU Blog**
 
+**Big Screen View :** 
+
 ![WPU Blog _ All Blog](https://user-images.githubusercontent.com/59794929/158278830-e0bdd58e-7942-4f58-9dfe-9c259e82e31b.png)
-![WPU Blog _ All Blog_mobile](https://user-images.githubusercontent.com/59794929/158278836-4c578ea8-df0a-457c-8516-707ba897c682.png)
+
 ![WPU Blog _ Dashboard](https://user-images.githubusercontent.com/59794929/158278837-4beaec24-73be-450d-8ed4-dda992820bd3.png)
+
+**Mobile View :**
+
+![WPU Blog _ All Blog_mobile](https://user-images.githubusercontent.com/59794929/158278836-4c578ea8-df0a-457c-8516-707ba897c682.png)
+
 ![WPU Blog _ Dashboard_mobile](https://user-images.githubusercontent.com/59794929/158278838-154be61e-0481-4df3-a4d8-1c7253d4f2e8.png)
 
 url web : wpuaqilblog.000webhostapp.com
